@@ -124,7 +124,7 @@ Passion     : Building scalable apps & beautiful UIs
 <a href="mailto:akilamigara15@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
 </a>&nbsp;
-<a href="linkedin.com/in/akila-peiris-70a661392">
+<a href="https://linkedin.com/in/akila-peiris-70a661392">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://akila.vercel.app">
