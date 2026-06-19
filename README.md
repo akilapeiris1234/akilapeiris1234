@@ -17,20 +17,19 @@
 Name        : Halpawattage Akila Migara Peiris
 Location    : Sri Lanka
 Focus       : Full-Stack Dev | Mobile Apps | UI/UX Designer | Professional Graphic Designer
-Status      : Working in Essilor Lanka 
 Email       : akilamigara15@gmail.com
 Passion     : Building scalable apps & beautiful UIs
 ```
 
 <br/>
 
-- 💻 Building cross-platform mobile apps with **Flutter & Dart**
-- 🌐 Crafting modern web experiences using **Next.js, React & TypeScript**
-- 🔐 Exploring **Cybersecurity**, Networking & Cloud Computing
-- 🎨 Passionate about **UI/UX Design** — dark themes, glassmorphism & modern aesthetics
-- 🤖 Fascinated by **Artificial Intelligence** and its real-world applications
-- 🚀 Always learning, always building, always improving
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed of it 😄
+- <img src="https://img.icons8.com/fluency/48/000000/source-code.png" width="24"/> Building cross-platform mobile apps with **Flutter & Dart**
+- <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="24"/> Crafting modern web experiences using **Next.js, React & TypeScript**
+- <img src="https://img.icons8.com/fluency/48/000000/security-shield-green.png" width="24"/> Exploring **Cybersecurity**, Networking & Cloud Computing
+- <img src="https://img.icons8.com/fluency/48/000000/paint-palette.png" width="24"/> Passionate about **UI/UX Design** — dark themes, glassmorphism & modern aesthetics
+- <img src="https://img.icons8.com/fluency/48/000000/bot.png" width="24"/> Fascinated by **Artificial Intelligence** and its real-world applications
+- <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="24"/> Always learning, always building, always improving
+- <img src="https://img.icons8.com/fluency/48/000000/bug.png" width="24"/> Fun fact: I debug with `console.log` and I'm not ashamed of it 😄
 
 ---
 
@@ -135,16 +134,16 @@ Passion     : Building scalable apps & beautiful UIs
 <div align="center">
 
 <a href="mailto:akilamigara15@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/akila-migara">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://akila.vercel.app">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://github.com/akila-migara">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
 </a>&nbsp;
 
 <br/>
