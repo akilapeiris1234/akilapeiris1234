@@ -33,7 +33,7 @@ Passion     : Building scalable apps & beautiful UIs
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Passion     : Building scalable apps & beautiful UIs
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
@@ -116,39 +116,27 @@ Passion     : Building scalable apps & beautiful UIs
 
 </div>
 
----
 
-## 🤝 Soft Skills
-
-<div align="center">
-
-`🧠 Problem Solving` &nbsp; `👥 Teamwork` &nbsp; `🏆 Leadership` &nbsp; `💡 Critical Thinking`
-`🎨 Creativity` &nbsp; `💬 Communication` &nbsp; `⏰ Time Management` &nbsp; `🔄 Adaptability` &nbsp; `⚡ Quick Learning`
-
-</div>
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 <a href="mailto:akilamigara15@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/akila-migara">
+<a href="linkedin.com/in/akila-peiris-70a661392">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://akila.vercel.app">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://github.com/akila-migara">
+<a href="https://github.com/akilapeiris1234">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
 </a>&nbsp;
 
 <br/>
 
-> 💼 **Open to:** Full-time roles · Internships · Freelance projects · Open-source collaborations
+>  **Open to:** Full-time roles · Internships · Freelance projects · Open-source collaborations
 
 </div>
 
