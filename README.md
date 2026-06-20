@@ -72,8 +72,9 @@ Passion     : Building scalable apps & beautiful UIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
 
 </div>
----
-### Connect With Me
+
+
+##  Connect With Me
 
 <div align="center">
 
