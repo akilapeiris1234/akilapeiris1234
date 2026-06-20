@@ -72,35 +72,6 @@ Passion     : Building scalable apps & beautiful UIs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
 
 </div>
-
----
-
-##  Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Essilor_eye_logo.png" width="28" alt="Essilor Icon"> Essilor — Visitor & Package Management
-[![Repo](https://img.shields.io/badge/View%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akila-migara/essilor-vms)
-
-> An enterprise-grade full-stack web system for facility operations.
-
-**Tech:** `Next.js` `TypeScript` `MySQL` `Tailwind CSS`
-
-- 🧑‍💼 Visitor & employee management
-- 📦 Real-time package tracking
-- 🔒 JWT authentication
-- 🛡️ Role-Based Access Control
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ##  Currently Learning
